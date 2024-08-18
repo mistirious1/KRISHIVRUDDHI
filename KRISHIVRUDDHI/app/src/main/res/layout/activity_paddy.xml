@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Paddy">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Paddy"
+        android:textColor="@color/green"
+        android:textSize="40sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="1.Introduction"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Rice is one of the three most important food crops in the world and it is the staple food for over 2.7 billion people.In India, area under rice is 44.6 m ha with total
+output of 80 million tonnes (paddy) with an average productivity of 1855 kg/ha. It is grown in almost all the states West Bengal, Uttar Pradesh, Madhya Pradesh Bihar, Orissa, Andhra Pradesh, Assam, Tamilnadu, Kerala, Punjab, Maharashtra and Karnataka are
+major rice growing states and contribute to total 92% of area and production"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="2.Climate"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Rice is a crop of tropical climate. However, it is also grown successfully in humid to sub-humid regions under subtropical and temperate climate.
+
+Rice is cultivated in almost all types of soils with varying productivity. Under high temperature, high humidity with sufficient rainfall and irrigation facilities, rice can be grown in any type of soil.
+
+The major soil groups where rice is grown are riverine alluvium, red-yellow, red loamy, hill and sub-montane, Terai, laterite, costal alluvium, red sandy, mixed red, black, medium and shallow black soils."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="3.Soil and Manuring"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Rice is cultivated in almost all types of soils with varying productivity. The major soil groups where rice is grown are riverine alluvium, red-yellow, red loamy, hill and sub-montane, Terai, laterite, costal alluvium, red sandy, mixed red, black, medium and shallow black soils. It grows well in soils having a pH range between 5.5 and 6.5.
+\nManuring\nAfter summer ploughing, 2-3 ploughing are required to prepare the soil.
+
+Do proper bunding of field to conserve and retain water. If daincha for green manuring is taken as previous crop it should be incorporated with phosphorous.
+
+Irrigate the field at least one week prior of transplanting to allow to grow weeds. Then plough the field by filling water and do puddling before transplanting"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="4.Varieties"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/paddy"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="5.Irrigation"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="The field plot can be 25 to 50 cents depending on the source of irrigation.Care should be taken not to allow development of cracks.
+For rabi Maize, first irrigation is to be applied 3-4 weak after seedling emergence, subsequently at 4-5 weeks till March and thereafter at 1-2 weeks interval."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="6.Nutritional Deficiency and Diseases"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Deficiency:\na.Nitrogen\n
+a.Potassium\n
+b.Boron\n
+c.Manganese\n
+d.Iron\n
+e.Zinc\n\nDiseases:"
+
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="a.Blast"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/blasty"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="b.Bacterial Leaf Blight"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/blighty"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="c.Brown Leaf Spot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/browny"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="d.False Smut"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/smuty"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="7.Harvesting and Yield"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Taking the average duration of the crop as an indication, drain the water from the field 7 to 10 days before the expected harvest date as draining hastens maturity and improves harvesting conditions.When 80% of the panicles turn straw colour, the crop is ready for harvest. Even at this stage. the leaves of some of the varieties may remain green.
+Confirm maturity by selecting the most mature tiller and dehusk a few grains. If the rice is clear and firm, it is in hard dough stage.
+When most of the grains at the base of the panicle in the selected tiller are in a hard dough stage, the crop is ready for harvest. At this stage harvest the crop, thresh and winnow the grains.
+Dry the grains to 12% moisture level for storage. Grain yield in rice is estimated only at 14% moisture for any comparison Maturity may be hastened by 3-4 days by
+spraying 20% NaCl a week before harvest to escape monsoon rains.\nYield\nGeneral yield varies around 22-25 quintals per acre (it varies on variety and hybrid)"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

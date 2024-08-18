@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/black">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/include"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_marginTop="0dp"
+        app:tabIndicatorColor="@color/green"
+        app:tabIndicatorHeight="3.5dp"
+        app:tabSelectedTextColor="@color/green"
+        app:tabTextColor="@color/white">
+
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/schemes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Schemes">
+
+        </com.google.android.material.tabs.TabItem>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/news"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Videos">
+
+        </com.google.android.material.tabs.TabItem>
+
+
+    </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/fragmentcontainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/include"
+        android:layout_marginTop="0dp">
+
+    </androidx.viewpager.widget.ViewPager>
+
+
+</RelativeLayout>

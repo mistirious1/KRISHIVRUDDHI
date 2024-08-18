@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Cashew">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Cashew"
+        android:textColor="@color/green"
+        android:textSize="40sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="1.Introduction"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+               android:text="Cashew (Anacardium occidentale L) a native of Eastern Brazil introduced to India just as other commercial crops like Rubber, Coffee, Tea etc. by the Portuguese nearly five centuries back. The first introduction of cashew in India was made in Goa from where it spread to other parts of the country. In the beginning it was mainly considered as a crop for afforestation and soil binder to check erosions. The nuts, apple and other by products of this crop are of commercial importance. Though its commercial exploitation began from the early 1960's, marginal lands and denuded forests were the areas set apart for the plantation development. Due to the absence of high yielding varieties and multiplication techniques, seeds and seedlings were used for plantation development in an unscientific manner. However, as a result of governmental interventions, coupled with sustained efforts of Research,
+Development organizations and farmers the development of Cashew Plantations has become re oriented in a scientific manner to great extent. Because of its adaptive ability in wide range of agro climatic conditions and excellent return per unit area, Cashew has attained the status of an export oriented crop of high commercial value."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="2.Climate"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="It is a hardy tropical plant and does not exact a very specific, climate. It can come up in places situated within 35 latitude on either side of the equator and also in the hill ranges up to 700 m MSL. It can grow well in places receiving rainfall from 50 cm to 250 cm and tolerate a temperature range of 25 to 49 C. it requires a bright weather and does not tolerate excessive shade."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="3.Soil"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Cashew is cultivated on a wide variety of soils in India like laterite, red and coastal sandy soil. To a limited extent, it is also grown on black soils. It can be also grown in hill slopes in virgin organic matter rich soils. They do not prefer water logged or saline soils."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="4.Varieties"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Since cashew is a highly cross-pollinated crop. planting of seedlings is not recommended now. Various cashew research centres have released improved clones, which are either selections from seedling population or hybrids. BBPI, BBP2, BBP3, Vengrulal,2,3,4,5,6,7, Vridhachalam1,2,3, Ullall,2,3, Chintamani-1, Anakayam-1 etc."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/cashewvar"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="5.Irrigation and Intercropping"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Irrigation\n
+Normally grown as a rainfed crop. Irrigation once in a west from flinching to fruit maturity stage is good to increase the yield.
+Intercropping\n
+Plough the interspaces after the receipt of rain and raise either groundnut or pulses or minor millets till the trees reach bearing age."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="6.Diseases"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Diseases:"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="a.Anthracnose"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/anthra"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="b.Inflorescence Blight"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/blight"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="c.Shoot Rot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/shootrot"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="d.Damping off"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/damping"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="7.Harvesting and Yield"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Harvest\nthe bearing starts after 5 years of planting. Nuts are harvested when they are three quarters ripe. The number of harvests will vary from three to five in one year depending upon the season and place of cultivation.\n\nYield\nAn average of about 1250 kg/ha can be obtained."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

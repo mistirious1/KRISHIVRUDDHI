@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Areca_nut">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Areca Nut"
+        android:textColor="@color/green"
+        android:textSize="40sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="1.Introduction"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="The arecanut palm is the source of common chewing nut, popularly known as betel nut or Supari, In India it is extensively used by large sections of people and is very much linked with religious practices. India is the largest producer of arecanut and at the same time largest consumer also.Major states cultivating this crop are Karnataka (40%), Kerala (25%). Assam (20%), Tamil Nadu, Meghalaya and West Bengal."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="2.Climate"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="The cultivation of arecanut is mostly confined to 28° north and south of the equator. It grows well within the temperature range of 14°C and 36°C and is adversely affected by temperatures below 10°C and above 40°C. Extremes of temperature and wide diurnal variations are not conducive for the healthy growth of the palms. Arecanut can be grown in areas receiving annual rainfall of 750 mm in Maidan parts of Karnataka to 4,500 mm in Mainad areas of Karnataka. In areas where there is prolonged dry spell, the palms are irrigated. Due to its susceptibility to low temperature, a good crop of arecanut cannot be obtained at an altitude of more than 1000 m MSL."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="3.Soil and Manuring"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="The largest area under the crop is found in gravelly laterite soils of red clay type. It can also be grown on fertile clay loam. soils. Sticky clay, sandy, alluvial, brackish and calcareous soils are not suitable for arecanut cultivation.\n\nApply to each bearing palm (5 years and above) 10-15 kg of FYM or green leaf. 100:40:140 g of NPK/ tree/ year. To palms less than five years old, half of the above dose is recommended. Manures are applied during January February after the North East monsoon in a basin of 0.75-1.00 m radius around the tree to a depth of 20-30 cm."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="4.Varieties"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="The largest area under the crop is found in gravelly laterite soils of red clay type. It can also be grown on fertile clay loam. soils. Sticky clay, sandy, alluvial, brackish and calcareous soils are not suitable for arecanut cultivation.\n\nApply to each bearing palm (5 years and above) 10-15 kg of FYM or green leaf. 100:40:140 g of NPK/ tree/ year. To palms less than five years old, half of the above dose is recommended. Manures are applied during January February after the North East monsoon in a basin of 0.75-1.00 m radius around the tree to a depth of 20-30 cm."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/arecaimg"
+               android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="5.Irrigation and Intercropping"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Arecanut cannot withstand drought for a long time Being a perennial crop, once affected by water stress, it may require two-three years to regain the normal vigour and yield. The death of palms due to moisture stress is also not uncommon Irrigation intervals of 5 and 10 days were found superior throughout the season. The quantity of water to be applied is about 200 lit per palm/irrigation
+During the summer, majority of the farmers face scarcity of water and it will be difficult to supply the required water to the palms. To overcome this problem, new irrigation methods were tried which can save water without affecting the yield of arecanut. They are sprinklers and drip irrigation methods Sprinkler and drip irrigations can save 20 and 44 per cent respectively of water
+\n\nIntercropping\nCocoa, black pepper, coffee vanilla, cinnamon, clove and citrus"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="6.Nutritional Deficiency and Diseases"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Deficiency:\na.Nitrogen\nb.Potassium\nc.Calcium\nd.Magnesium\ne.Zinc\n\nDiseases:"
+
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="a.Foot rot or Anabe roga"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/anabe"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="b.Yellow Leaf"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/yellow_1"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="c.Mahali or Friut rot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/mahali_2"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="d.Bud rot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/bud_rot"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="7.Harvesting and Yield"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Harvest\nthe bearing starts after 5 years of planting. Nuts are harvested when they are three quarters ripe. The number of harvests will vary from three to five in one year depending upon the season and place of cultivation.\n\nYield\nAn average of about 1250 kg/ha can be obtained."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>
+

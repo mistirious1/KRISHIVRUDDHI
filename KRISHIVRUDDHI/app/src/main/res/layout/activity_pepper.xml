@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Pepper">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Pepper"
+        android:textColor="@color/green"
+        android:textSize="40sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="1.Introduction"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Black pepper (Piper nigrum L.) (Family: Piperaceae) is a perennial vine grown for its berries extensively used as spice and in medicine India is one of the major producer. consumer and exporter of black pepper in the world.
+Black pepper is cultivated to a large extent in Kerala, Karnataka and Tamil Nadu and to a limited extent in Maharashtra, North eastern states and Andaman and Nicobar Islands. Kerala
+and Karnataka account for a major portion of production of black pepper in the country."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="2.Climate"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text=" Pepper is grown mainly as a rainfed crop. Pepper requires heavy rainfall (150-250 cm) high humidity and warm climate. The crop can be grown at elevations up to 1500 m.
+The black pepper growing tracts in the West Coast of India include\n
+1. coastal areas where black pepper is grown in homesteads.\n
+2. midlands and where black pepper is extensively cultivated on a plantation scale and.\n
+3. hills at an elevation of 800-1500 m above sea level, where the crop is mostly grown on shade trees in coffee, cardamom and tea plantations."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="3.Soil and Manuring"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Thrives best on virgin soils rich in humus content. Black pepper can be grown in a wide range of soils with a pH of 5.5 to 6.5, though in its natural habitat it thrives well in red laterite soils. Optimum soil temperature for root growth is 26-28°C.\n
+Manuring:\nApply cattle manure or Compost @ 10 kg/vine just before the onset of South West monsoon. In addition 100 g of N 40 g of P and 140 g of K per vine are applied in two split doses in the months of May June and in September-October.
+Slaked lime at 500 g per vine is applied in alternate years during May-June. Apply Azospirillum @ 100 g/vine one month after the application of chemical fertilizers, Integrated nutrient management Inorganic N 50% of the recommended dose + FYM 10 kg + 50 g Azospirillum + 50 g Phosphobacteria + 200 g VAM per plant.
+The manures and fertilizers are applied around the vine at a distance of 30 cm from the base
+and incorporated into the soil. Along with recommended fertilizer use Criyagen DNP 20-25g/plant."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="4.Varieties"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/peppy1"
+                android:layout_marginLeft="50dp"></ImageView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/peppy2"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="5.Irrigation"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Protective Irrigation in basins during December,May at 10 days interval.
+Irrigating black pepper vines during summer (March i fortnight to May Il fortnight) at fortnightly interval enhances productivity by 90 to 100 per cent compared to unirrigated crop.
+Vines are irrigated at the basin through hose and fifty litres per vine is recommended for vines that have crossed 15 years of age. We can reduce the amount to 40 litres for vines between 11 15 years age group and 30 litres to vines aged between 5-10 years.
+The spiking will be uniform in the irrigated crop as most of the spikes (>90%) emerge by July while in rain fed crop only around 60% of spikes emerge in July and may extend till September.
+Spike length will be comparatively more in irrigated crop."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="6.Nutritional Deficiency and Diseases"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Deficiency:\n
+a.Potassium\n
+b.Boron\n
+c.Manganese\n
+d.Iron\n
+e.Magnesium\n\nDiseases:"
+
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="a.Fruit Rot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/fruittyy"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="b.Pollu Disease"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/polli"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="c.Spike Shedding"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/spikeshed"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="d.Stunt Disease"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/stuntdisease"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="7.Harvesting"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Harvesting Black pepper takes about 7-8 months after flowering to reach full maturity. In India the crop is harvested during December January in plains and January - April in the high ranges of Western Ghats.\n
+It is important to harvest pepper at the proper stage of maturity in order to achieve a dried product of good co lour and appearance. Harvest starts when one or two berries turn yellow.\n
+The spikes are nipped of by hand and collected in bags. Normally, single pole bamboo ladder is used as a support for harvesting. If the berries are allowed to over ripe, there is heavy loss due to berry drop and damage by birds.\n
+Harvested spikes are generally collected in clean gunny bags. Spikes which are fallen on to the ground may be collected separately, cleaned and then pooled to the general lot."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

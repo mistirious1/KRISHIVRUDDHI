@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Rubber">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Rubber"
+        android:textColor="@color/green"
+        android:textSize="40sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="1.Introduction"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Rubber is an important commercial agricultural product collected from the latex of the tree Hevea brasiliensis. It is an indigenous tree of tropical rainforest of Amazon basin of Brazil.
+Rubber is useful because of its invaluable qualities such as elasticity, resistance to water and non-conduction of electricity.Rubber cultivation had its beginnings in 1876, when Sir Henry Wickham brought Hevea seeds to Kew Gardens in London where he succeeded in germinating trees which he sent to Sri Lanka. Following this experiment, numerous plantations begun in the British and Malay Archipelago, the regions which long supplied most of the world's natural rubber."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="2.Climate"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Tropical climate with annual rainfall of 2000 - 4500 mm is suited for cultivation.Minimum and maximum temperature should be ranged from 25 to 34°C with 80% relative humidity is ideal for cultivation. Regions prone to heavy winds should be avoided. "
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="3.Soil and Manuring"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="It requires deep and lateritic fertile soil with an acidic pH of 4.5 to 6.0 and highly deficient in available phosphorous.\nManuring\nBasal-2.5 t/ha of FYM and 350kg/ha of Rock Phosphate: 1.5-2 months after planting -10:10:4:15 NPKMg mixture -2500 kg/ha Urea @550 kg/ha-3 to 3.5 months.
+Planting: Pit size of 1 m3 are dug and filled up with top soil and compost\n
+Spacing for Budded plants;
+Hilly areas6.7 x 3.4 Plains 4.9 x 4.9\n
+Spacing for Seedlings\n
+Hilly areas6.1 x 3.0 Plains 4.6 x 4.6\n
+Insitu sowing:\n
+Germinated seeds are sown insitu in the pits. Healthy ones are retained and the others removed."
+                android:lineSpacingExtra="1dp"
+                android:textColor="@color/black"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="4.Varieties"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Tjir 1, PB 86, BD 5, BD 10, PR 17, GT 1, RRII 105, RRIM 600, PB 28/59, PB 217, PB 235, RRIM 703, RRII 5, PCK-1, 2 and PB 260"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/rubbervar"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="5.Planting"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Season:\n
+
+June July is optimum for cultivation Method of propagation: Propagated by green budding, brown budding and crown budding.
+\nNursery:\nBed size: 60-120 cm width and of convenient length.\nSpacing: Seedling stumps - 23 * 23cm 30 * 30 cm and 34 * 20 cm Budded stumps - 30 * 30 cm Stump budding - 60 * 60 cm Bud wood nursery - 60 * 90 cm or 60 * 120cm"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="6.Nutritional Deficiency and Diseases"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Deficiency:\na.Nitrogen\n
+a.Potassium\n
+b.Magnesium\n
+c.Zinc\n\nDiseases:"
+
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="a.Powdery Mildew"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/powdery"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="b.Birds Eye Spot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/birdy"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="c.Pink Disease"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/pinky"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="d.Patch Canker"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/patchy"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="7.Yield"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Rubber yield steeply increases year by year, reaching a peak after 14 years of planting. In South India, the annual yield of rubber is 150 kg/ ac from seedlings trees, whereas budded plants yield 400 kg/ac."
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    tools:context=".CropInfo">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Select a Crop"
+        android:textColor="@color/white"
+        android:textSize="30sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/Arecanut"
+                android:layout_width="365dp"
+                android:layout_height="162dp"
+                android:text="ARECA NUT"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/arecanut06jpg"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Coconut"
+                android:layout_width="365dp"
+                android:layout_height="162dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/coconut"
+                android:text="Coconut" />
+
+            <Button
+                android:id="@+id/Cashew"
+                android:layout_width="365dp"
+                android:layout_height="162dp"
+                android:textSize="30dp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/cashew"
+                android:text="Cashew" />
+
+            <Button
+                android:id="@+id/Paddy"
+                android:layout_width="365dp"
+                android:layout_height="162dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/paddddyyy"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:text="Paddy"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/white"/>
+
+            <Button
+                android:id="@+id/Pepper"
+                android:layout_width="365dp"
+                android:layout_height="162dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/pepper"
+                android:text="Pepper"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/white"/>
+
+            <Button
+                android:id="@+id/Rubber"
+                android:layout_width="365dp"
+                android:layout_height="162dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/rubber"
+                android:text="Rubber"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

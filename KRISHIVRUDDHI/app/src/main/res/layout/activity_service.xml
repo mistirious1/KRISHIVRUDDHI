@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Service"
+    android:background="@drawable/tractor1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="Services Provided"
+        android:gravity="center"
+        android:textColor="@color/green"
+        android:textSize="30sp"
+        >
+
+    </TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:id="@+id/name1"
+        android:layout_marginTop="20sp"
+        android:hint="Username"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/green"
+        android:textSize="24dp"
+        android:paddingLeft="10dp">
+
+    </EditText>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498" />
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:id="@+id/dob1"
+        android:layout_marginTop="20sp"
+        android:hint="Date of service"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/green"
+        android:textSize="24dp">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:id="@+id/acres"
+        android:backgroundTint="@color/green"
+        android:layout_marginTop="20sp"
+        android:textColor="@color/black"
+        android:hint="Acres of Land"
+        android:textSize="24dp">
+
+    </EditText>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:id="@+id/insert12"
+        android:text="View Price"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="20sp"
+        android:textSize="18sp"
+        android:layout_marginLeft="125dp">
+
+    </Button>
+
+    <Button
+        android:id="@+id/book"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="20sp"
+        android:background="@drawable/rounded_button"
+        android:text="book"
+        android:textSize="18sp">
+
+    </Button>
+
+
+</LinearLayout>

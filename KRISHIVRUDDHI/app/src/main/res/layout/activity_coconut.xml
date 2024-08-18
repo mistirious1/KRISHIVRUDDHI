@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Coconut">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="Coconut"
+        android:textColor="@color/green"
+        android:textSize="40sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="630dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="1.Introduction"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="The coconut palm is referred to as Kalpavriksha -the tree of heaven' as each and every part of the palm is useful to mankind in one way or other. It provides food, drink, fuel and timber. Millions of families in India depend on coconut for their livelihood either directly or indirectly India ranks third in area and production of coconut in the world.The four southern states viz. Kerala, Tamil Nadu, Karnataka and Andhra Pradesh are the major coconut producing states in India accounting for more than 90 per cent of area and production.
+There is a great scope for enhancing the productivity of coconut through adoption of scientific cultivation technologies, which are described here under."                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="2.Climate"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+android:text="The coconut palm is found to grow under varying climatic and soil conditions. It is essentially a tropical plant, growing mostly between 20° N and 20 5 latitudes:
+
+The ideal temperature for coconut growth i and yield is 275° C and humidity> 60 per cent. The coconut palm grows well upto an elevation of 600 m above MSL However, near the equator, productive coconut plantations can be established up to an elevation of about 1000 m above MSL
+
+The palms tolerate wide range in intensity and distribution of rainfall. However, a well distributed rainfall of about 200 cm per year is the best for proper growth and higher yield. In areas of inadequate rainfall with uneven distribution irrigation is required"                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="3.Soil and Manuring"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+android:text="Red sandy loam, laterite and alluvial soils are suitable. Select sites with deep (not less than 1.5 m depth) well drained soil heavy, imperfectly drained soil is unsuitable. Avoid shallow soils with underlying hard rock, low-lying areas subject to water stagnation and heavy clayey soils.Soil with a minimum depth of 1.2 m and fairly good water holding capacity is preferred for coconut cultivation. However, in lands, reclaimed by heaping alternate layers of sand and clay. Coconut thrives well.
+Proper supply of moisture either through well distributed rainfall or irrigation and sufficient drainage are essential for coconut Coconut can be grown in soil with pH of 5.2-8.6.\n\n
+Manuring\n
+Regular manuring from the first year of planting is essential to achieve higher productivity. For coconut 20-50 kg organic manure should be applied per palm per year with the onset of south west monsoon, when soil moisture content is high.Different forms of organic manures like compost, farm yard manure, bone meal, fish meal, blood meal, neem cake, groundnut cake etc. could be made use for this purpose. In addition to this the following Fertilizer Schedule is recommended"                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="4.Varieties"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+android:text="Basically, coconut cultivars are classified into two groups viz, tall and dwarf. The tall cultivars that are extensively grown are the West Coast Tall and East Coast Tall. The dwarf variety is shorter in stature and its life span is short as compared to the tall. Tall x Dwarf (TXD), Dwarf x Tall (DxT) are the two important hybrids.
+There are 10 different combinations of hybrids, developed by Kerala Agriculture University and Tamil Nadu Agriculture University and released for commercial cultivation. They are high yielders under the good management conditions.
+Laccadive Ordinary, Andaman Ordinary, Philippines, Java, Cochin-China, Kappadam etc. are the other tall cultivars under cultivation"                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/cocovariety"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="5.Methods of planting"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Before planting the pits are filled up with top soil and powdered cow dung/compost up to a depth of 50 to 60 cm. Then take a small pit inside this, so as to accommodate the nut attached to the seedling. Plant the seedling inside this pit and fill up with soil.Press the soil well so as to avoid water stagnation. If there is chance for white-ant attack apply Sevidol 8G (5gm.) inside the small pit before planting.In laterite areas apply 2 kg common salt per pit for improving the physical condition of the soil.
+Burying 25 to 30 coconut husks per pit in layers will be useful for moisture conservation."
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="6.Nutritional Deficiency and Diseases"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="Deficiency:\na.Nitrogen\n
+b.Phosphorus\n
+c.Boron\n
+d.Manganese\n
+e.Mangnesium\n
+f.Iron\n
+g.Calcium\n
+h.Copper\n
+I.Zinc\n\nDiseases:"
+
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="a.Foot rot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/cbudrot"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="b.Tanjore Wilt"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/wilt"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="c.Leaf rot"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/leafrot"
+                android:layout_marginLeft="50dp"></ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/black"
+                android:text="d.Leaf Blight"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp">
+            </TextView>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@drawable/leafdisease"
+                android:layout_marginLeft="50dp"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="7.Harvesting and Yield"
+                android:textColor="@color/black"
+                android:textSize="30dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+android:text="Harvesting\nTwelve months old nuts are harvested at the interval of 30-45 days for seed as well as copra making and culinary purposes.
+For household use keep the nuts in vertical direction However, for tender nut purposes 7 to 8 months old nuts are harvested. The nuts can be harvested using coconut climbers.
+Nuts which are II months old give fiber of good quality. This is suitable for coir fiber. In case of tall variety, the nuts harvested for seed purpose can be stored for 2 to 3 months period before sowing, whereas in case of dwarfs and hybrids, nuts should be sown with in a period af 10-15 days of harvest.
+On an average, we can have eight harvests, though the coconut palm produces inflorescence every month For all extraction, nuts are generally sun dried for copra making. In this case there is a chance of
+dirt accumulation followed by oil quality deterioration, nuts can be dried in various types of driers available (Kiln, electric and solar driers)
+and also sun drying.\nYield\n
+Average yield: 80-100 nuts/palm/year depending on the variety. \nDwarf varieties-70-80 nuts/palm/year\n
+Tall varieties-80-100 nuts/palm/year\nHybrids -100-130 nuts/palm/year"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="1dp"
+                android:justificationMode="inter_word"
+                android:textSize="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbacky"
+    tools:context=".MainMain">
+
+    <TextView
+        android:layout_width="375dp"
+        android:layout_height="65dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:text="Welcome to Krishi Vruddhi!"
+        android:textColor="@color/green"
+        android:textSize="28sp"
+android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.279" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <com.tomer.fadingtextview.FadingTextView
+            android:id="@+id/fadingText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="250dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+
+            app:texts="@array/text"
+            app:timeout="500" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/admin"
+        android:layout_width="160dp"
+        android:layout_height="145dp"
+        android:background="@drawable/custom_input1"
+        android:drawableTop="@drawable/admin"
+        android:paddingTop="20dp"
+        android:text="ADMIN"
+        android:fontFamily="serif-monospace"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.127"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.616" />
+
+    <Button
+        android:id="@+id/farmer"
+        android:layout_width="160dp"
+        android:layout_height="145dp"
+        android:background="@drawable/custom_input1"
+        android:drawableTop="@drawable/farmerlogin"
+        android:paddingTop="20dp"
+        android:text="FARMER"
+        android:fontFamily="serif-monospace"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.616" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="190dp"
+        android:layout_height="174dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ogooo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
