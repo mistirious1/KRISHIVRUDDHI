@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983050441971",
+    "firebase_url": "https://krishi-vruddhi-default-rtdb.firebaseio.com",
+    "project_id": "krishi-vruddhi",
+    "storage_bucket": "krishi-vruddhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983050441971:android:9142df24f36497156fd386",
+        "android_client_info": {
+          "package_name": "com.example.krishivruddhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983050441971-u6foje738a0hv7fb2vfj51fhlcesjekc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVplhufsJh6x-QdLykm16Lj2B_cGYTfpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983050441971-u6foje738a0hv7fb2vfj51fhlcesjekc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

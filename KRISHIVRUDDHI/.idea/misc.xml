@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/adminprice.xml" value="0.127" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/circle_button.xml" value="0.173" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/custom_input1.xml" value="0.1675" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/expert.xml" value="0.173" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/farmerdetails.xml" value="0.127" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/farmerlogin.xml" value="0.127" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/ic_baseline_miscellaneous_services_24.xml" value="0.1735" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/ic_baseline_nature_people_24.xml" value="0.127" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.127" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1735" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1735" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1735" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/info.xml" value="0.173" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/mail.xml" value="0.1095" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/mainbtn.xml" value="0.173" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/name.xml" value="0.1095" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/news.xml" value="0.173" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/password.xml" value="0.1095" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/phone.xml" value="0.1095" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/price.xml" value="0.173" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/questionmark.xml" value="0.127" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/rounded_button.xml" value="0.1095" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/drawable/service.xml" value="0.1735" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.234375" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout-w1240dp/newsfragment.xml" value="0.23469387755102042" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.134765625" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_admin_farmer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_admin_home.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_admin_market.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_admin_query.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_adminlogin.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_adminservice.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_areca.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_areca_nut.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_cashew.xml" value="0.1" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_coconut.xml" value="0.1640625" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_crop_info.xml" value="0.1" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main3.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main4.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main5.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_main_page.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_navigation.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_news1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_newsfragment.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_newsmain.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_paddy.xml" value="0.1460626587637595" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_pepper.xml" value="0.1" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_query_admin.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_query_farmer.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_rubber.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_schemesfragment.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_service.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_swipe_left.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_swipe_right.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_view_price.xml" value="0.22" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/activity_weathwe.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/app_bar_newsss.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/content_newsss.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/content_scrolling.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/layout/styles.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/menu/menu_scrolling.xml" value="0.1796875" />
+        <entry key="..\:/Users/Aishwarya K/AndroidStudioProjects/KRISHIVRUDDHI/app/src/main/res/menu/navigation_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
